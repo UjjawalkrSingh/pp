@@ -1,6 +1,4 @@
-Got it ✅ — here’s your cleaned and professional **README.md** (without any author section):
 
----
 
 ````markdown
 # 🔎 Global Chat with Searching
@@ -126,4 +124,3 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 
 ---
 
-# pp
